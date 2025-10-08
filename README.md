@@ -22,6 +22,22 @@ Component	Description
  Mobile App	Simple camera interface for elderly users — takes photos and displays AI responses.
  Local LLaMA Server	Runs on a nearby PC; processes received images, performs visual analysis, and generates text explanations using a fine-tuned LLaMA model.
 
+# Team
+This project is organized by an interdisciplinary team of doctoral and master's students, with each member contributing based on their respective areas of expertise.
+
+- **Fuzuki Tasaka (Project Lead)** – Oversees overall project direction, system implementation, and agent behavior evaluation.  
+  Acts as a bridge between development and real-world deployment by conducting usability testing and improving prototypes. Also contributes directly to coding and practical integration.  
+  *Kobe University*
+
+- **Hang Xingchen** – Responsible for system architecture design, including the integration of LLMs, robotic control, and multimodal coordination (vision, voice, behavior).  
+  *Kobe University*
+
+- **Haruki Maruyama** – In charge of prompt engineering and market research. Optimizes dialogue flow in Japanese and ensures the system aligns with user needs and social context.  
+  *The University of Tokyo*
+
+- **Taketomi Ryuichi** – Responsible for comprehensive system testing and quality assurance, ensuring robustness and reliability across various usage scenarios.  
+  *Kwansei Gakuin University*
+
 ⚙️ Workflow
 📱 Smartphone
    ↓ ① Take photo (food / medicine / product)
