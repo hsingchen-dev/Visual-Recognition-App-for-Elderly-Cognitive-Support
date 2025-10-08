@@ -19,8 +19,8 @@ Users only need to take a photo — the system automatically analyzes the image 
 SKYNET consists of two connected components working together over local Wi-Fi:
 
 Component	Description
-📱 Mobile App	Simple camera interface for elderly users — takes photos and displays AI responses.
-💻 Local LLaMA Server	Runs on a nearby PC; processes received images, performs visual analysis, and generates text explanations using a fine-tuned LLaMA model.
+ Mobile App	Simple camera interface for elderly users — takes photos and displays AI responses.
+ Local LLaMA Server	Runs on a nearby PC; processes received images, performs visual analysis, and generates text explanations using a fine-tuned LLaMA model.
 
 ⚙️ Workflow
 📱 Smartphone
@@ -42,5 +42,12 @@ Component	Description
 | **Operation**            | Fully automatic after capture                          | Requires manual search | Needs image upload via chat |
 | **Special Function**     | Local reasoning + health safety evaluation             | Translation / shopping | General dialogue only       |
 | **Elderly Adaptability** | Very high (1-click use)                                | Moderate               | Low – complex interface     |
+
+<img width="393" height="875" alt="image" src="https://github.com/user-attachments/assets/543dc036-9578-42e8-92b9-782fc338a859" />
+<img width="392" height="867" alt="image" src="https://github.com/user-attachments/assets/c6e2e2af-4974-4a83-8d55-391d3b240b76" />
+<img width="390" height="868" alt="image" src="https://github.com/user-attachments/assets/33029b4a-e640-4eee-9438-a3be8fc767ad" />
+<img width="400" height="867" alt="image" src="https://github.com/user-attachments/assets/92a8311a-7111-429e-871c-6a962b975041" />
+
+
 
    
